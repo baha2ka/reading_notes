@@ -4,7 +4,7 @@
 | ------- | ------- |
 | readme  | [link](https://baha2ka.github.io/reading_notes/)     
 |  read01 | [link](https://baha2ka.github.io/reading_notes/read01) |
-|  read02 |  |
+|  read02 |    |
 |  read03 |  |
 |  read04 | |
 |  read06 |
