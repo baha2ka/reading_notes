@@ -2,6 +2,7 @@
 
 | name  | link |
 | ------- | ------- |
+| growth |  [link](https://baha2ka.github.io/reading_notes/growth)|
 | growth |[link](https://baha2ka.github.io/reading_notes/growth)|
 | readme  | [link](https://baha2ka.github.io/reading_notes/)     
 |  read01 | [link](https://baha2ka.github.io/reading_notes/read01) |
