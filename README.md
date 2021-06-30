@@ -10,3 +10,4 @@
 |  read03 | [link](https://baha2ka.github.io/reading_notes/read03) |
 |  read04 | [link](https://baha2ka.github.io/reading_notes/read04) |
 |  read05 | [link](https://baha2ka.github.io/reading_notes/read05) |
+ | read06 | [link](https://baha2ka.github.io/reading_notes/read06) |
