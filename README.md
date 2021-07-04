@@ -1,4 +1,4 @@
-# Hello my name is Bahaa Aldeen,  I am 28 years old, I am italian chef I here to learn programming to have new skills, well-organized and a quick learner. 
+000# Hello my name is Bahaa Aldeen,  I am 28 years old, I am italian chef I here to learn programming to have new skills, well-organized and a quick learner. 
 
 | name  | link |
 | ------- | ------- |
@@ -10,3 +10,5 @@
 |  read03 | [link](https://baha2ka.github.io/reading_notes/read03) |
 |  read04 | [link](https://baha2ka.github.io/reading_notes/read04) |
 |  read05 | [link](https://baha2ka.github.io/reading_notes/read05) |
+ | read06 | [link](https://baha2ka.github.io/reading_notes/read06) |
+ | read07 | [link](https://baha2ka.github.io/reading_notes/read07) |
